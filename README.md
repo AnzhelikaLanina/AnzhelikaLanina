@@ -37,7 +37,7 @@
    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnzhelikaLanina&layout=compact&show_icons=true" />
 </p>
 
-<h2>Мои контакты</h2>
+<h2></h2>
 
 <div align="center">
    <p>
