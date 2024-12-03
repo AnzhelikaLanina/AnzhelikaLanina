@@ -2,7 +2,7 @@
   Привет, меня зовут Анжелика <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h2>
 
- *  Я заканчиваю обучение в Яндекс.Практикум 🏆
+ *  Я закончила обучение в Яндекс.Практикум 🏆
 
  *  Люблю учиться чему-то новому 🌠
 
